@@ -14,6 +14,7 @@ This repository contains implementations of several of our GRPO projects: [Pave-
 [Yujie Zhou*](https://scholar.google.com/citations?user=XLnXvPwAAAAJ&hl=zh-CN),
 [Yibin Wang](https://codegoat24.github.io/),
 [Zhenyu Hu](https://scholar.google.com/citations?user=Ju1SiBwAAAAJ&hl=en&oi=ao),
+[Zihan Zhang](https://scholar.google.com/citations?user=l8fN6loAAAAJ&hl=en),
 [Yi Jin](https://scholar.google.ca/citations?hl=en&user=mAJ1dCYAAAAJ),
 [Huaian Chen<sup>†</sup>](https://scholar.google.com.hk/citations?hl=zh-CN&user=D6ol9XkAAAAJ),
 [Yuhang Zang<sup>†</sup>](https://yuhangzang.github.io/)
