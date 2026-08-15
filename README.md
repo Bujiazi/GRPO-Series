@@ -143,6 +143,13 @@ bash scripts/train_adagrpo.sh
 
 Coming Soon. The official implementation has been released at [here](https://github.com/bcmi/Granular-GRPO).
 
+### Inference
+
+```bash
+python infer.py
+```
+
+
 ## 🏗️ Todo
 
 - [ ] Integrate the code of G2RPO (the official repo can be found [here](https://github.com/bcmi/Granular-GRPO)).
