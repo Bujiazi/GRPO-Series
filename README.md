@@ -20,6 +20,7 @@ This repository contains implementations of several of our GRPO projects: [Pave-
 [Yuhang Zang<sup>†</sup>](https://yuhangzang.github.io/)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2606.01636-b31b1b.svg)](https://arxiv.org/abs/2606.01636)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/pavegrpo.github.io/)
 
 <details><summary>Click for the full abstract of Pave-GRPO</summary>
 
